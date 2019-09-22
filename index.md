@@ -3,7 +3,7 @@ This page will have updates about my ongoing programming projects. To see all of
 
 My current projects are:
 
-1. **Steganography**  - Based on the idea of hiding images within other images, based on manipulated the least significant bits of individual pixels in an image.
+1. **Steganography**  - Based on the idea of hiding images within other images using manipulation of the least significant bits of individual pixels.
 
 2. **Map Generator** - Uses simplex noise procedural generation to generate maps.
 

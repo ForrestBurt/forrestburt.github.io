@@ -1,5 +1,5 @@
 ## Welcome to Forrest Burt's GitHub page
-This page will have updates about my ongoing programming projects. To see all of my creative work, go to [www.forrestburt.com](www.forrestburt.com).
+This page will have updates about my ongoing programming projects. To see all of my creative work, go to www.forrestburt.com.
 
 My current projects are:
 
